@@ -18,10 +18,10 @@ section {
 }
 
 aside {
-	float: right;
-	border: 1px solid red;
+	float:left;
+	border: 1px solid rgb(0, 255, 166);
 	width: 19%;
-	border: 1px solid red;
+	border: 1px solid rgb(43, 0, 255);
 	/*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
 	/*visibility: hidden;*/
 }
